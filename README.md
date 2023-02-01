@@ -2,12 +2,12 @@
 <div align="right">
 <p> <img src="https://komarev.com/ghpvc/?username=malidipak&label=Profile%20views&color=0e75b6&style=flat" alt="malidipak" /> </p>
 </div>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello,folks!!👋;Nice+to+meet+you!;I'm+Dipak+Mali....;Passionate+Developer👨‍💻;Data+Science+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=30"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello,folks!!👋;Nice+to+meet+you!;I'm+Nikita Girase....;Passionate+Developer👨‍💻;Data+Science+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=30"></a>
 </p></h1>
 <p align="center">
-<a href="https://linkedin.com/in/nikitagiraase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malidipak" height="30" width="40" /> <span> LinkedIn </span> </a>
-<a href="https://instagram.com/__dipakmali__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_malidipak" height="30" width="40" /> <span> Instagram </span> </a>
-<a href="https://www.hackerrank.com/dipakcmali2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dipakcmali2002" height="30" width="40" /> <span> HackerRank </span></a>
+<a href="https://linkedin.com/in/nikitagiraase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikitagirase" height="30" width="40" /> <span> LinkedIn </span> </a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikita" height="30" width="40" /> <span> Instagram </span> </a>
+<a href="https://www.hackerrank.com/nikita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikitagirase11" height="30" width="40" /> <span> HackerRank </span></a>
 </p>
 <br>
 <h3 align="center">Hii, I'm Nikita Girase a Third year Data Science student.</h3>
@@ -42,7 +42,7 @@
     <h2 align="center"> 📊 GitHub Stats </h2>
       <br/>
         <p align="center">
-          <a href="https://github.com/malidipak/">
+          <a href="https://github.com/nikitagirase/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malidipak&show_icons=true&locale=en&layout=compact" alt="MaliDipakTopLanguages" /></a>
         </p>
         <p align="center">
