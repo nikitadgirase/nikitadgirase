@@ -1,6 +1,6 @@
 <h1 align="center"><p align="center">
 <div align="right">
-<p> <img src="https://komarev.com/ghpvc/?username=malidipak&label=Profile%20views&color=0e75b6&style=flat" alt="malidipak" /> </p>
+<p> <img src="[https://komarev.com/ghpvc/?username=malidipak&label=Profile%20views&color=0e75b6&style=flat](https://thumbs.dreamstime.com/b/data-science-concept-businessman-showing-conceptual-illustration-internet-big-technology-140084029.jpg)" alt="malidipak" /> </p>
 </div>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello,folks!!👋;Nice+to+meet+you!;I'm+Nikita Girase....;Passionate+Developer👨‍💻;Data+Science+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=30"></a>
 </p></h1>
